@@ -41,7 +41,7 @@ This account is pretty new, so there's not much going on yet.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blanktorious&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=blanktorious&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=blanktorious&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
 </div>
 
