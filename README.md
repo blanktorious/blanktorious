@@ -4,11 +4,15 @@
 
 ###
 
-<h3 align="left">Tools & Technologies</h3>
+<img src="https://raw.githubusercontent.com/blanktorious/blanktorious/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="left">
+<h3 align="center">Tools & Technologies</h3>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -39,12 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/blanktorious/blanktorious/output/snake.svg" alt="Snake animation" />
 
 ###
 
