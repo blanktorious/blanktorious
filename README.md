@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">DevOps Tools</h3>
+<h3 align="left">Tools & Technologies</h3>
 
 ###
 
