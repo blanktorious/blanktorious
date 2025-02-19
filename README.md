@@ -8,6 +8,11 @@
 
 ###
 
+# 💫 About Me:
+I'm JD, but in the digital and gaming worlds, my name is Blanktorious. My journey began with a degree in Electronics Engineering, and from there, I dove into the tech scene as a DevOps Engineer. Now, with three years under my belt, I'm focusing on personal projects to further sharpen my DevOps skills.
+
+###
+
 <h3 align="center">Tools & Technologies</h3>
 
 ###
