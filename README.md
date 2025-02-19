@@ -1,16 +1,12 @@
 <div align="center">
   <img height="" src="images/introduction.gif"  />
+  
 </div>
+<img src="https://raw.githubusercontent.com/blanktorious/blanktorious/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/blanktorious/blanktorious/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -44,8 +40,10 @@ This account is pretty new, so there's not much going on yet.
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=blanktorious&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=blanktorious&theme=aura&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blanktorious&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=blanktorious&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+</div>
 
 ###
 
