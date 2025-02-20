@@ -51,7 +51,7 @@ This account is pretty new, so there's not much going on yet.
 
 ###
 
-[![Spotify Playlist](images/introduction.gif)](https://open.spotify.com/playlist/0d8PUDLBlrAiW7zIgoNOaF?si=477e65185787427f)
+[![Spotify Playlist](images/playlist.png)](https://open.spotify.com/playlist/0d8PUDLBlrAiW7zIgoNOaF?si=477e65185787427f)
 
 ###
 
