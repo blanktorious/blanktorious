@@ -51,7 +51,7 @@ This account is pretty new, so there's not much going on yet.
 
 ###
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=la709kfwqneebxf5rl9f6ydfp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=la709kfwqneebxf5rl9f6ydfp&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=la709kfwqneebxf5rl9f6ydfp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00b4cc)](https://spotify-github-profile.kittinanx.com/api/view?uid=la709kfwqneebxf5rl9f6ydfp&redirect=true)
 
 ###
 
