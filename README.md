@@ -1,17 +1,24 @@
 <div align="center">
-  <img src="images/introduction.gif" alt="Intro animation" />
+  <img src="images/introduction.gif" alt="jd de monteverde intro" />
 </div>
 
+# 
+
+<div align="center">
+  <h3>JD DE MONTEVERDE</h3>
+  <em>DevOps Engineer | Kubernetes | Azure | Automation</em>
+</div>
+
+# 
 <div align="center">
   <img src="https://raw.githubusercontent.com/blanktorious/blanktorious/output/snake.svg" alt="GitHub contribution snake animation" />
 </div>
 
-<h1 align="center">JD DE MONTEVERDE</h1>
 
-<h3>About Me:</h3>
-Hi, I'm JD — welcome to my GitHub! I'm a DevOps Engineer with a passion for automation, Kubernetes, and cloud (specifically Azure).  
+# <h3>About Me:</h3>
+Hi, I'm JD welcome to my GitHub! I'm a DevOps Engineer with a passion for automation, Kubernetes, and cloud (specifically Azure).  
 Here you'll find DevOps-related projects I've built or am currently working on, including my homelab experiments.  
-Feel free to explore the repos and check out the README files to see what I’ve been up to!
+Feel free to explore the repos and check out the README files to see what I’ve been up to!<br /><br />
 
 Since I’m still building my personal site in my homelab, I’ve created a temporary one where I share projects and blogs.  
 Check it out below 👇
@@ -20,6 +27,7 @@ Check it out below 👇
 [✍️ My Medium Profile](https://jddemonteverde.medium.com)
 
 # <h3>🚀 Projects</h3>
+<div align="center">
 
 | Project | Description |
 |--------|-------------|
@@ -27,6 +35,7 @@ Check it out below 👇
 | [Laboratory](https://github.com/blanktorious/laboratory) | A repository where I compile all the files and projects that I worked on. |
 | [My Static Website](https://github.com/blanktorious/my-tech-website) | This repo is for my static website that I migrated to Hugo. |
 
+</div>
 
 # <h3>📊 GitHub Stats</h3>
 
