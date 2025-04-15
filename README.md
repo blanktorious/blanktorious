@@ -4,11 +4,11 @@
 </div>
 <img src="https://raw.githubusercontent.com/blanktorious/blanktorious/output/snake.svg" alt="Snake animation" />
 
-### JD DE MONTEVERDE
+### <h1>JD DE MONTEVERDE</h1>
 
 ###
 
-# <h3>About Me:</h3>
+# <h3>About Me:
 Hi, I'm JD welcome to my GitHub! I'm a DevOps Engineer with a passion for automation, Kubernetes, and cloud (specifically Azure). Here you'll find DevOps-related projects I've built or am currently working on, including my homelab experiments. Feel free to explore the repos and check out the README files to see what I’ve been up to!
 
 Since I'm still building my website in my homelab, I created a temporary one just to have a place where I can share my projects and blogs. You can check it out in the link below.
@@ -21,7 +21,7 @@ You can also check some of my blogs in Medium
 
 ###
 
-# 🚀 Projects
+# <h3>🚀 Projects</h3>
 
 | Project | Description |
 |--------|-------------|
@@ -47,6 +47,6 @@ This account is pretty new, so there's not much going on yet.
 
 ###
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jddemonteverde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnddemonteverde@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/blanktorious)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jddemonteverde)
 
 ###
