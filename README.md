@@ -47,22 +47,6 @@ This account is pretty new, so there's not much going on yet.
 
 ###
 
-# <h3>🎵Music:</h3>
-
-###
-
-[![Spotify Playlist](images/playlist.png)](https://open.spotify.com/playlist/0d8PUDLBlrAiW7zIgoNOaF?si=477e65185787427f)
-
-###
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=la709kfwqneebxf5rl9f6ydfp&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=la709kfwqneebxf5rl9f6ydfp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00b4cc" alt="spotify-github-profile">
-  </a>
-</p>
-
-###
-
 # <h3 align="left">🌐 Socials</h3>
 
 ###
